@@ -1,0 +1,68 @@
+﻿@model Scrap_Kart_AspCore.Models.User
+
+@{
+    ViewData["Title"] = "SignUp";
+}
+
+<div class="container" style="padding-top: 29px;">
+    <div class="row">
+        <div class="col d-flex">
+            <h5 class="flex-fill" style="margin-bottom: 0px;">
+                SIGNUP
+            </h5>
+        </div>
+    </div>
+</div>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SignUp" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="UserName" class="control-label"></label>
+                <input asp-for="UserName" class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Mobile" class="control-label"></label>
+                <input asp-for="Mobile" class="form-control" />
+                <span asp-validation-for="Mobile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PWD" class="control-label"></label>
+                <input asp-for="PWD" class="form-control" type="password" />
+                <span asp-validation-for="PWD" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="REPWD" class="control-label"></label>
+                <input asp-for="REPWD" class="form-control" type="password" />
+                <span asp-validation-for="PWD" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                @if (!string.IsNullOrEmpty(ViewBag.Error))
+                {
+                    <div role="alert" class="alert alert-danger"><span><strong>@ViewBag.Error</strong></span></div>
+                }
+            </div>
+
+            <div class="form-group">
+                <input type="submit"  class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

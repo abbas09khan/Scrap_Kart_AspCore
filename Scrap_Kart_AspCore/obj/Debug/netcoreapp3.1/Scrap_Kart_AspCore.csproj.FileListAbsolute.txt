@@ -1,0 +1,551 @@
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.exe
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.deps.json
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.runtimeconfig.json
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.runtimeconfig.dev.json
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.pdb
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.Views.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.Views.pdb
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.AssemblyInfoInputs.cache
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.AssemblyInfo.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.csproj.CoreCompileInputs.cache
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorAssemblyInfo.cache
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorAssemblyInfo.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\Scrap_Kart_AspCore.StaticWebAssets.Manifest.cache
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\Scrap_Kart_AspCore.StaticWebAssets.xml
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\Scrap_Kart_AspCore.styles.css
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.TagHelpers.input.cache
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.TagHelpers.output.cache
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorCoreGenerate.cache
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorTargetAssemblyInfo.cache
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorTargetAssemblyInfo.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.Views.pdb
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.csproj.CopyComplete
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.pdb
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.genruntimeconfig.cache
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.csproj.AssemblyReference.cache
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Profile.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\SignUp.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Search.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\PointOfSale.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\UserList.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Orders\MyOrders.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Orders\OrderSuccess.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\PasswordChange.cshtml.g.cs
+C:\Users\Rishi\source\repos\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Orders\MySaleRecords.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.StaticWebAssets.xml
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.exe
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.deps.json
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.runtimeconfig.json
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.runtimeconfig.dev.json
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.pdb
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.Views.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.Views.pdb
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.csproj.AssemblyReference.cache
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.AssemblyInfoInputs.cache
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.AssemblyInfo.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.csproj.CoreCompileInputs.cache
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorAssemblyInfo.cache
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorAssemblyInfo.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\Scrap_Kart_AspCore.StaticWebAssets.Manifest.cache
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\Scrap_Kart_AspCore.StaticWebAssets.Pack.cache
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Scrap_Kart_AspCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Scrap_Kart_AspCore.props
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Scrap_Kart_AspCore.props
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Scrap_Kart_AspCore.props
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.TagHelpers.input.cache
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.TagHelpers.output.cache
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorCoreGenerate.cache
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Orders\MyOrders.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Orders\MySaleRecords.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Orders\OrderSuccess.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\PointOfSale.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Search.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\PasswordChange.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Profile.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\SignUp.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\UserList.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorTargetAssemblyInfo.cache
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorTargetAssemblyInfo.cs
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.Views.pdb
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.csproj.CopyComplete
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.dll
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.pdb
+C:\Users\91790\Documents\Visual Studio 2022\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.genruntimeconfig.cache
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.StaticWebAssets.xml
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.exe
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.deps.json
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.runtimeconfig.json
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.runtimeconfig.dev.json
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.pdb
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.Views.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Scrap_Kart_AspCore.Views.pdb
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.csproj.AssemblyReference.cache
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.AssemblyInfoInputs.cache
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.AssemblyInfo.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.csproj.CoreCompileInputs.cache
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorAssemblyInfo.cache
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorAssemblyInfo.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\Scrap_Kart_AspCore.StaticWebAssets.Manifest.cache
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\Scrap_Kart_AspCore.StaticWebAssets.Pack.cache
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Scrap_Kart_AspCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Scrap_Kart_AspCore.props
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Scrap_Kart_AspCore.props
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Scrap_Kart_AspCore.props
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.TagHelpers.input.cache
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.TagHelpers.output.cache
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorCoreGenerate.cache
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Orders\MyOrders.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Orders\MySaleRecords.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Orders\OrderSuccess.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\PointOfSale.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Search.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\PasswordChange.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\Profile.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\SignUp.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Users\UserList.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorTargetAssemblyInfo.cache
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.RazorTargetAssemblyInfo.cs
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.Views.pdb
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.csproj.CopyComplete
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.dll
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.pdb
+C:\Users\91790\Desktop\Scrap_Kart_AspCore\Scrap_Kart_AspCore\obj\Debug\netcoreapp3.1\Scrap_Kart_AspCore.genruntimeconfig.cache

@@ -1,0 +1,100 @@
+﻿@model IEnumerable<Scrap_Kart_AspCore.Models.Product>
+@using System.IO;
+@using Microsoft.AspNetCore.Http;
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container d-xl-flex align-items-xl-end" style="margin-top: 20px;">
+    <h4 class="text-warning flex-fill">My Items</h4>
+    <a asp-action="Create" class="btn btn-primary" type="button">+ New Item</a>
+
+</div>
+<hr />
+<div class="container" style="margin-top: 20px;">
+    <div class="card">
+        <div class="card-header bg-warning">
+            <h5 class="mb-0">Item List</h5>
+        </div>
+        <div class="card-body">
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="Search by Item Name . . ." />
+                <div class="input-group-append"><button class="btn btn-primary" type="button">Search</button></div>
+            </div>
+        </div>
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th></th>
+
+                        <th>
+                            @Html.DisplayNameFor(model => model.ProductName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Price)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Quantity)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Category)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Brand)
+                        </th>
+                        <th>
+                            Action
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Product item in Model)
+                    {
+
+
+                        <tr>
+                            <td>1</td>
+                            <td style="padding: 5px;">
+                                
+                               
+                               
+                                    <img class="border rounded-circle" src="@item.ImageUrl" style="width: 59px;" />
+                                
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ProductName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Price)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Quantity)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Category)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Brand)
+                            </td>
+
+                            <td class="text-right">
+                                <div role="group" class="btn-group">
+                                    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.PID">Edit</a>
+                                    @*<a asp-action="Details" asp-route-id="@item.PID">Details</a> |*@
+                                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.PID">Delete</a>
+                                </div>
+                            </td>
+
+                        </tr>
+                    }
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

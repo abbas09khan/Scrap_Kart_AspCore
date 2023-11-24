@@ -1,0 +1,195 @@
+﻿
+@{
+}
+
+
+<script src="~/js/angular.min.js"></script>
+<script src="~/js/angular-sanitize.min.js"></script>
+<script>
+        var app = angular.module('myApp', []);
+
+    app.controller('customersCtrl', function ($scope, $http, $location) {
+
+        $scope.Products = [];
+        $scope.Type = "Vegetarian";
+        $scope.Keyword = '';
+        $scope.Cart = [];
+        $scope.Price = 0;
+        $scope.PIDs = [];
+        $scope.SelectedItems = [];
+        $scope.TotalAmount = 0;
+
+
+        $scope.Load = function () {
+
+            if (localStorage.getItem("Cart") != null)
+                $scope.Cart = JSON.parse(localStorage.getItem("Cart"));
+            else {
+
+            }
+            for (var n = 0; n < $scope.Cart.length; n++) $scope.Cart[n].TotalPrice = $scope.Cart[n].Price;
+
+        }
+        $scope.Load();
+
+        $scope.Increment = function (Product) {
+
+            if (Product.Quantity <= Product.OrderedQuantity) Product.OrderedQuantity++;
+            Product.TotalPrice = Product.OrderedQuantity * Product.Price;
+            $scope.UpdateTotalAmount();
+        }
+        $scope.Decrement = function (Product) {
+
+            if (Product.OrderedQuantity >= 2) Product.OrderedQuantity--;
+
+            Product.TotalPrice = Product.OrderedQuantity * Product.Price;
+            $scope.UpdateTotalAmount();
+        }
+
+        $scope.UpdateTotalAmount = function () {
+            $scope.TotalAmount = 0;
+            for (var n = 0; n < $scope.Cart.length; n++) {
+                $scope.TotalAmount = $scope.TotalAmount + ($scope.Cart[n].Price * $scope.Cart[n].OrderedQuantity);
+
+            }
+
+        }
+        $scope.UpdateTotalAmount();
+
+        $scope.PlaceOrder = function () {
+
+            //$http({
+            //    url: "/Orders/PlaceOrder",
+            //    method: "POST",
+            //    params: angular.fromJson($scope.Cart[0])
+            //})
+            $http.post("/Orders/PlaceOrder", $scope.Cart)
+                .then(function (response) {
+                    if (response.data == "Success") {
+                        location.assign('@Url.Action("OrderSuccess","Orders")');
+                    }
+                console.log(response);
+
+            });
+
+            
+    }
+
+        });
+
+
+</script>
+
+<div ng-app="myApp" ng-controller="customersCtrl">
+
+    <div class="container d-xl-flex align-items-xl-end" style="margin-top: 20px;">
+        <h4 class="text-warning flex-fill">Point of Sale</h4>
+        
+        <a class="btn btn-primary" role="button" data-toggle="modal" href="#myModal">Place Order</a>
+    </div>
+
+    <hr />
+
+    <div class="container" style="margin-top: 20px;">
+        <div class="card">
+            <div class="card-header bg-warning">
+                <h5 class="mb-0">Select Quantity of Products</h5>
+            </div>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th style="width: 50px;">Sn.</th>
+                            <th>Image</th>
+                            <th style="width: 381px;">Item Name</th>
+                            <th>Price</th>
+                            <th style="width: 169px;">Quantity</th>
+                            <th>Total Price</th>
+                            <th class="text-center" style="width: 105px;">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="Product in Cart">
+                            <td>{{$index+1}}</td>
+                            <td style="padding: 5px;"><img class="border rounded-circle" src="~/img/packing128.png" style="width: 59px;" /></td>
+                            <td>{{Product.ProductName}}</td>
+                            <td>{{Product.Price}}</td>
+                            <td>
+                                <div class="input-group">
+                                    <div class="input-group-prepend" ng-click="Decrement(Product)">
+                                        <span class="text-white bg-danger input-group-text" style="cursor:pointer"><i class="fa fa-minus"></i></span>
+                                    </div>
+                                    <input ng-model="Product.OrderedQuantity" type="text" class="form-control" value="0" />
+                                    <div class="input-group-append">
+                                    <button ng-click="Increment(Product)" class="btn btn-success" type="button"><i class="fa fa-plus"></i></button></div>
+                                </div>
+                            </td>
+                            <td>{{Product.OrderedQuantity * Product.Price}}</td>
+                            <td class="text-right">
+                                <div role="group" class="btn-group"><button class="btn btn-danger" type="button">Delete</button></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td><strong>Total Bill Amount</strong></td>
+                            <td></td>
+                            <td></td>
+                            <td><strong>{{TotalAmount}} /-</strong></td>
+                            <td></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    
+    <div role="dialog" tabindex="-1" class="modal fade" id="myModal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4>Payment Details </h4><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                </div>
+                <div class="modal-body">
+                    <form id="payment-form" name="PaymentForm">
+                        <div class="form-row">
+                            <div class="col-12">
+                                <div class="form-group">
+                                    <label for="cardNumber">Card number </label>
+                                    <div class="input-group">
+                                        <input type="tel" class="form-control" ng-model="cardNumber" required placeholder="Valid Card Number" />
+                                        <div class="input-group-append"><span class="input-group-text"><i class="fa fa-credit-card"></i></span></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="col-7">
+                                <div class="form-group"><label for="cardExpiry"><span>expiration </span><span>EXP </span> date</label>
+                                <input type="tel" class="form-control" required ng-model="cardExpiry"  placeholder="MM / YY" /></div>
+                            </div>
+                            <div class="col-5 pull-right">
+                                <div class="form-group"><label for="cardCVC">cv code</label>
+                                <input type="tel" class="form-control" required ng-model="cardCVC" placeholder="CVC" /></div>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="col-12">
+                                <div class="form-group"><label for="couponCode">coupon code</label>
+                                <input type="text" class="form-control" required ng-model="couponCode" /></div>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="col-12">
+                                <button ng-click="PlaceOrder()" ng-disabled="PaymentForm.$invalid"  class="btn btn-primary" type="button">Place Order</button></div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
